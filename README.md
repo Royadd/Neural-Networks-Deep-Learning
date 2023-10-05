@@ -1,2 +1,2 @@
 # Neural-Networks-Deep-Learning
-Some implementations of different neural networks based learning projects
+Some implementations of different neural networks based learning methods
